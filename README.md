@@ -3,7 +3,7 @@ Projeto Cadastro - Mercado
 Este projeto tem como objetivo desenvolver um sistema de Cadastro de produtos de mercado, como parte das atividades acadêmicas da faculdade.
 
 ## 🛠️ Tecnologias Utilizadas:
-- [xxx](https://google.com/) 
+- NextJs e TailwindCss (https://google.com/) 
 
 
 
