@@ -9,7 +9,7 @@ import { useForm } from 'react-hook-form';
 
 interface FormData {
   nome: string;
-  dt_nascimento: number;
+  dt_nascimento: Date;
   cpf: string;
   email: string;
   senha: string;
