@@ -11,7 +11,7 @@ interface FormData {
   nome: string;
   dt_nascimento: Date;
   cpf: string;
-  email: string;
+  email: string; //email
   senha: string;
   confirmarSenha: string;
 }
